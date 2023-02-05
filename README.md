@@ -16,7 +16,7 @@ Esta aplicación le permite ingresar el código HTML y CSS de su sitio web y org
 ## Requisitos
 - La aplicación requiere tener acceso a internet para funcionar.
 
-## TODO List
+## TO DO List
 
 1. en el resultado añadir los bloques de css que no tengan coincidencia con ningun tag/clase/id (actualmente no los añade)
 2. mejorar la organizacion por especificidad
