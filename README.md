@@ -27,4 +27,4 @@ Esta aplicación le permite ingresar el código HTML y CSS de su sitio web y org
 6. ~~agregar funciones al codigo para no repetir tanto~~
 
 ## Contribuir
-Este proyecto es de código abierto y está disponible para colaboradores.
+Este proyecto está bajo la licencia MIT y está abierto a colaboradores.
